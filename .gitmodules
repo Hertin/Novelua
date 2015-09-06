@@ -1,0 +1,6 @@
+[submodule "external/SDL2pp"]
+	path = external/SDL2pp
+	url = https://github.com/AMDmi3/libSDL2pp.git
+[submodule "external/Selene"]
+	path = external/Selene
+	url = https://github.com/apsun/Selene.git
